@@ -1,6 +1,6 @@
 # hello_world
 Hello world
 
-Andrés here, just testing github. Sitting at a nice balcony of a Cafe waiting for something extraordinary to happen. 
+Andres here, just testing github. Sitting in a nice balcony waiting for something extraordinary to happen. 
 
 Cheers! 
